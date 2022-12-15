@@ -1,6 +1,6 @@
 import developers
 import json
-import requests
+import requests # pip install request (untuk install request di Vs Code)
 import time  # waktu
 import datetime  # tanggal
 import os
